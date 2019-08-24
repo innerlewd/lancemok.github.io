@@ -1,0 +1,160 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 150%;
+    color: black;
+    background: whitesmoke;
+}
+#name {
+    text-align: ;
+    padding: 15px;
+    background-color: black;
+    color: white;
+    width: 110px;
+    border: 0, none, black;
+    margin: 0, 0, 0, 138;
+}
+
+header {
+    padding: 40px;
+    background-color: #f4b6aa;
+    border: 20px, none, none;
+}
+
+a {
+    font-size: 12px;
+    text-decoration: none;
+    color: white;
+}
+
+.container {
+    width: 960px;
+    margin: 0 auto;
+}
+
+#main-bio,
+#profile-picture {
+    float: left;
+}
+
+#main-bio {
+    border-style: solid;
+    border-color: gray;
+    top: 20;
+}
+
+#profile-picture {
+    width: 125px;
+    height: 125px;
+    margin-right: 20px;
+}
+
+#placeholder1,
+#placeholder2,
+#placeholder3,
+#placeholder4,
+#placeholder5 {
+    width: 200px;
+    height: 150px;
+    margin-right: 20px;
+    margin-bottom: 20px;s
+}
+
+form {
+
+}
+/* Container needed to position the button. Adjust the width as needed */
+.container {
+    position: relative;
+    width: 50%;
+  }
+  
+  /* Make the image responsive */
+  .container img {
+    width: 100%;
+    height: auto;
+  }
+
+  .container .p1-btn:hover,
+  .container .p2-btn:hover,
+  .container .p3-btn:hover, {
+    background-color: black;
+  }
+  
+  /* Style the button and place it in the middle of the container/image */
+  .container .p1-btn {
+    position: absolute;
+    top: 42%;
+    left: 13%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #555;
+    color: white;
+    font-size: 16px;
+    padding: 12px 52px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  .container .p2-btn {
+    position: absolute;
+    top: 42%;
+    left: 42.3%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #555;
+    color: white;
+    font-size: 16px;
+    padding: 12px 54px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .container .p3-btn {
+    position: absolute;
+    top: 42%;
+    left: 71.65%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #555;
+    color: white;
+    font-size: 16px;
+    padding: 12px 54px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+
+   .container .p4-btn {
+    position: absolute;
+    top: 86%;
+    left: 13%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #555;
+    color: white;
+    font-size: 16px;
+    padding: 12px 54px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+
+  .container .p5-btn { 
+    position: absolute;
+    top: 86%;
+    left: 42.3%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #555;
+    color: white;
+    font-size: 16px;
+    padding: 12px 54px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+*/
